@@ -21,8 +21,8 @@ This project provides a platform for managing and tracking QR codes, allowing us
 - **Request**:
   ```json
   {
-    "name": "James Bond",
-    "email": "james.bond@example.com",
+    "name": "James",
+    "email": "james@example.com",
     "password": "secretpassword123"
   }
   ```
@@ -31,8 +31,8 @@ This project provides a platform for managing and tracking QR codes, allowing us
     ```json
     {
       "id": "user-id-12345",
-      "email": "james.bond@example.com",
-      "name": "James Bond",
+      "email": "james@example.com",
+      "name": "James",
       "createdAt": "2024-11-30T12:00:00.000Z",
       "updatedAt": "2024-11-30T12:00:00.000Z"
     }
@@ -49,7 +49,7 @@ This project provides a platform for managing and tracking QR codes, allowing us
 - **Request**:
   ```json
   {
-    "email": "james.bond@example.com",
+    "email": "james@example.com",
     "password": "secretpassword123"
   }
   ```
@@ -75,8 +75,8 @@ This project provides a platform for managing and tracking QR codes, allowing us
     ```json
     {
       "id": "user-id-12345",
-      "email": "james.bond@example.com",
-      "name": "James Bond",
+      "email": "james@example.com",
+      "name": "James",
       "createdAt": "2024-11-30T12:00:00.000Z",
       "updatedAt": "2024-11-30T12:00:00.000Z"
     }
